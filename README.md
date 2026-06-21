@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Hibah Khan and I am Hardware Validation Engineer at Marvell Technology. I graduated with a BS in Electrical Engineering from Penn State in May 2026
+
+🔭 I’m currently working on a hardware validation suite using the Jetson Orin Nano using Linux in Ubuntu. 
+💬 Ask me about anything hardware, post-silicon methodologies, ATE setups, or general embedded knowledge
+
 <!--
 **hibahkhan2022-rgb/hibahkhan2022-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
