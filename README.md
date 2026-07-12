@@ -5,9 +5,7 @@ My name is Hibah Khan and I am Hardware Validation Engineer at Marvell Technolog
 🔭 I’m currently working on a hardware validation suite using the Jetson Orin Nano using Linux in Ubuntu      
 💬 Ask me about anything hardware, post-silicon methodologies, ATE setups, or general embedded knowledge
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hibahkhan2022-rgb&show_icons=true&theme=radical" alt="Stats Card" width="48%" />
-</p>
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Pranesh-2005&repo=github-readme-stats)](https://github.com/Pranesh-2005/github-readme-stats)
 <!--
 **hibahkhan2022-rgb/hibahkhan2022-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
